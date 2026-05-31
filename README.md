@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grigoandrei
 - 👀 I’m interested in AWS, Python, Java
-- 🌱 I’m currently learning automation using Python, DevOps technologies and Linux.
-- 💞️ I’m looking to collaborate on learning 
+- 🌱 Automating the world with: Python, Linux, CI/CD, Docker and Kubernetes.
 - 📫 How to reach me andrei.grigorescu2017@gmail.com
 
 <!---
